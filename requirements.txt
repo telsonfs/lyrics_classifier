@@ -1,0 +1,6 @@
+Flask
+nltk
+unidecode
+wordcloud
+matplotlib
+seaborn

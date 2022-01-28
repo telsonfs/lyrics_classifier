@@ -1,0 +1,9 @@
+
+<form method="POST" action="">
+    {{ form.csrf_token }}
+
+    {{ form.lyric.label }} {{ form.lyric(cols="50", rows="25")}}
+    <input type="submit" value="Go">
+
+</form>
+

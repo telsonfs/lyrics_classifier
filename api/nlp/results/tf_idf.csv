@@ -1,0 +1,6 @@
+,model,score
+0,BaggingClassifier,0.71015625
+1,RandomForestClassifier,0.8234375
+2,LogisticRegression,0.8359375
+3,KNeighborsClassifier,0.680078125
+4,DecisionTreeClassifier,0.656640625
